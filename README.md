@@ -13,3 +13,10 @@ Unofficial list of supported class names (seems quite accurate): https://github.
 ImageAI and utilized recognition models: https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Prediction/README.md
 
 Source images are downloaded from Google image search using *selenium*.
+
+
+# Results
+
+![Normal squirrel](squirrel.png)
+
+![Funny squirrels](squirrel_funny.png)
